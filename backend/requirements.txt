@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+langchain
+langchain-groq
+langchain-huggingface
+langchain-community
+faiss-cpu
+pypdf
+python-docx
+httpx
+beautifulsoup4
+sentence-transformers
